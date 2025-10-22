@@ -33,4 +33,4 @@ jobs:
       - name: Fin de mon premier job
         run: |
           echo C'est la fin du job,
-          echo Workflow terminé.
+          echo "Workflow terminé."
